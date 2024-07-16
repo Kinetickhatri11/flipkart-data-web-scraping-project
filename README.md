@@ -17,5 +17,5 @@ The script uses Python and the BeautifulSoup library to parse HTML and extract d
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/web-scraping-project.git
+   git clone https://github.com/yourusername/flipkart-data-web-scraping-project.git
    cd web-scraping-project
